@@ -39,11 +39,11 @@ while True:
 
 | Filename | Description | Dependencies |
 |----------|-------------|--------------|
-| ex_remote_control.py | Remote control the robot with arrow keys | pygame |
-| ex_odometry.py | Example to retrieve robot odometry data | pygame |
-| ex_lidar.py | Example to retrieve robot lidar data  | pygame |
-| ex_camera.py | Example to retrieve robot camera images | pygame |
-| ex_opencv.py | Example to retrieve robot camera images for opencv processing | opencv |
+| [ex_remote_control.py](ex_remote_control.py) | Remote control the robot with arrow keys | pygame |
+| [ex_odometry.py](ex_odometry.py) | Example to retrieve robot odometry data | pygame |
+| [ex_lidar.py](ex_lidar.py) | Example to retrieve robot lidar data  | pygame |
+| [ex_camera.py](ex_camera.py) | Example to retrieve robot camera images | pygame |
+| [ex_opencv.py](ex_opencv.py) | Example to retrieve robot camera images for opencv processing | opencv |
 
 
 ## Roadmap
