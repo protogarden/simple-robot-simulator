@@ -44,6 +44,7 @@ while True:
 | [ex_lidar.py](ex_lidar.py) | Example to retrieve robot lidar data  | pygame |
 | [ex_camera.py](ex_camera.py) | Example to retrieve robot camera images | pygame |
 | [ex_opencv.py](ex_opencv.py) | Example to retrieve robot camera images for opencv processing | opencv |
+| [ex_ros.py](ex_ros.py) | Example to interface to ros, subcribes to cmd_vel and publishes odometry | rospy |
 
 
 ## Roadmap
