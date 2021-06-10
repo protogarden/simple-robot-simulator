@@ -51,8 +51,11 @@ while True:
 These items are on the todo, but no timelines available:
 
 :x: Custom Scenes
+
 :x: Slightly more/better physics on robot
+
 :x: More visualizations in simulator
+
 :x: Various code examples of popular algorithms
 
 ## Credits
