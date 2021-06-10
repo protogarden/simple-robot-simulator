@@ -12,7 +12,7 @@ This is still a work in progress, but feature requests are welcome
 
 ## Installation
 
-Simulator Binaries Available: https://github.com/protogarden/simple-robot-simulator/releases
+Simulator Binaries: https://github.com/protogarden/simple-robot-simulator/releases
 
 Clone this repo for python core and code examples:
 
@@ -59,6 +59,8 @@ These items are on the todo, but no timelines available:
 :x: Various code examples of popular algorithms
 
 ## Credits
+
+Graphical Assets: Tristan Zipp
 
 Python/Unity Communication Code used from the following two projects
 
